@@ -1,0 +1,178 @@
+.background {
+    background-color: gainsboro;
+}
+
+.main {
+    margin-left: 15%;
+    margin-right: 15%;
+}
+
+.content {
+    display: flex;
+    height: 100vh;
+}
+
+.left {
+    width: 40%;
+    float: left;
+    text-align: center;
+    padding-top: 25%;
+}
+
+.right{
+    width: 60%;
+    float: right;
+}
+
+img {
+    width: 100%;
+    height: 100vh;
+}
+
+.work {
+    width: 100%;
+    height: 50px;
+    font-size: 20px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: white;
+    background-color: black;
+    text-align: center;
+    padding-top: 25px;
+}
+
+#click {
+    width: 180px;
+    height: 50px;
+    border-radius: 40px;
+    background-color: white;
+}
+
+#click:hover {
+    background-color: darkgrey;
+}
+
+.photoOne {
+    width: 100%;
+    height: 75vh;
+}
+#photo2 {
+    width: 100%;
+    height: 80vh;
+}
+
+.content_2 {
+    width: 100%;
+    height: 20vh;
+    background-color: darkgray ;
+}
+
+#heading3 {
+    padding-top: 30px;
+    text-align: center;
+}
+
+#para3 {
+    text-align: center;
+}
+
+.photoTwo {
+    width: 100%;
+    height: 75vh;
+}
+#photo3 {
+    width: 100%;
+    height: 80vh;
+}
+.content_3 {
+    width: 100%;
+    height: 20vh;
+    background-color: darkgray ;
+}
+
+#heading4 {
+    padding-top: 30px;
+    text-align: center;
+}
+
+#para4 {
+    text-align: center;
+}
+
+.photoThree {
+    width: 100%;
+    height: 75vh;
+}
+#photo4 {
+    width: 100%;
+    height: 80vh;
+}
+.content_4 {
+    width: 100%;
+    height: 20vh;
+    background-color: darkgray ;
+}
+
+#heading5 {
+    padding-top: 30px;
+    text-align: center;
+}
+
+#para5 {
+    text-align: center;
+}
+
+.photoFour {
+    width: 100%;
+    height: 75vh;
+}
+#photo5 {
+    width: 100%;
+    height: 80vh;
+}
+.content_5 {
+    width: 100%;
+    height: 20vh;
+    background-color: darkgray ;
+}
+
+#heading6 {
+    padding-top: 30px;
+    text-align: center;
+}
+
+#para6 {
+    text-align: center;
+}
+
+.photoFive {
+    width: 100%;
+    height: 75vh;
+}
+#photo6 {
+    width: 100%;
+    height: 80vh;
+}
+.content_6 {
+    width: 100%;
+    height: 20vh;
+    background-color: darkgray ;
+}
+
+#heading7 {
+    padding-top: 30px;
+    text-align: center;
+}
+
+#para7 {
+    text-align: center;
+}
+
+.footer {
+    text-align: center;
+    padding-top: 30px;
+    padding-bottom: 10px;
+}
+#footer1 {
+    font-size: 40px;
+    font-weight: bold;
+}
